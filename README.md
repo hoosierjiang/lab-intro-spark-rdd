@@ -9,7 +9,7 @@ Create an EMR cluster with **_Advanced Options_** and the following configuratio
 * Select `emr-5.21.0` from the drop-down
 * **Click check-boxes for these applications only**: Hadoop 2.8.5 and Spark 2.4.0
 * Click Next
-* Edit the instance types and set 1 master and 4 core of m4.xlarge 
+* Edit the instance types and set 1 master and 2 core of m4.xlarge 
 * Click Next
 * Give the cluster a name, and you can uncheck logging, debugging and termination protection enabled
 * Click Next
